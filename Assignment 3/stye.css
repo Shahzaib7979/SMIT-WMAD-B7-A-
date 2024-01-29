@@ -1,0 +1,37 @@
+body{
+    background-image: url('assets/254.jpg');
+    background-repeat: none;
+    background-size: cover;
+  }
+
+  h1{
+    font-family: 'Old English Text MT',Desi Cuisine;
+    font-size: 75px;
+    color:white;
+  }
+  h2{
+    color: antiquewhite;
+    text-decoration: underline;
+  }
+  button{
+    padding: 8px 25px 8px;
+    color: aliceblue;
+    background-color:black;
+    border-radius: 20px;
+    border-color: aqua blue green red;
+  }
+  .pic{
+    border: 3px;
+    border-radius: 5px;
+    border-color: aqua blue green red;
+    border-style: solid;
+  }
+ h4{
+    color:black;
+    }
+    p{
+        color:white;
+    }
+    footer{
+      color: aliceblue;
+    }
